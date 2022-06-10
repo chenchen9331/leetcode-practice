@@ -1,4 +1,4 @@
-package hot100.第一题两数之和;
+package hot100.第1题两数之和;
 
 import java.util.Arrays;
 import java.util.HashMap;
